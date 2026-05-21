@@ -4,7 +4,7 @@ Backend engineer. AI systems. Distributed infrastructure.
 
 3+ years building production microservices and LLM-powered applications — currently at [Ayoo.care](https://ayoo.care), shipping agentic clinical tooling and healthcare backend infrastructure.
 
-IIT Kharagpur · 2023
+🎓 IIT Kharagpur · 2023
 
 ---
 
