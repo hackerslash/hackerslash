@@ -8,6 +8,6 @@ IIT Kharagpur · 2023
 
 ---
 
-🌐 [hackerslash.dev](https://www.hackerslash.dev) · 📍 Bangalore, IN
+🌐 [hackerslash.dev](https://www.hackerslash.dev) · 📍 Bangalore, IN · <a href="mailto:afridijnv19@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-afridijnv19%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 
 📷 street & wildlife photography · 🎬 filmmaking · 🕹️ CTF
