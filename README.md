@@ -1,16 +1,19 @@
-## Hi there 👋
+# Afridi
 
-<!--
-**hackerslash/hackerslash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer. AI systems. Distributed infrastructure.
 
-Here are some ideas to get you started:
+3+ years building production microservices and LLM-powered applications — currently at [Ayoo.care](https://ayoo.care), shipping agentic clinical tooling and healthcare backend infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IIT Kharagpur · B.Tech Biotechnology · 2023
+
+---
+
+**Stack** — Python, TypeScript, Go, PostgreSQL, Redis, AWS, Docker  
+**AI** — LLMs, RAG, MCP, Claude API, AWS Bedrock, Vector Search  
+**Currently** — agentic pipelines, distributed systems, cloud cost optimization
+
+---
+
+[hackerslash.dev](https://www.hackerslash.dev) · [github/hackerslash](https://github.com/hackerslash) · Bangalore, IN
+
+*CTF · Street Photography · Filmmaking*
