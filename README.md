@@ -2,9 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=hackerslash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-Backend engineer. AI systems. Distributed infrastructure.
+AI application developer. LLM systems. Production infrastructure.
 
-3+ years building production microservices and LLM-powered applications — currently at [Ayoo.care](https://ayoo.care), shipping agentic clinical tooling and healthcare backend infrastructure.
+3+ years shipping production LLM applications — agentic tool-calling loops, RAG, and real-time voice — currently at [Ayoo.care](https://ayoo.care), building agentic clinical tooling on backend infrastructure I own end to end.
 
 🎓 IIT Kharagpur · 2023
 
