@@ -1,6 +1,6 @@
 # Hi, Afridi here 
 
-<img src="cat-typing.gif" align="right" width="50" alt="cat typing">
+<img src="cat-typing.gif" align="right" width="65" alt="cat typing">
 
 <img src="https://komarev.com/ghpvc/?username=hackerslash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
