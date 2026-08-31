@@ -1,8 +1,10 @@
-# Hi, Afridi here <img src="cat-typing.gif" width="35" alt="cat typing">
+# Hi, Afridi here 
+
+<img src="cat-typing.gif" align="right" width="50" alt="cat typing">
 
 <img src="https://komarev.com/ghpvc/?username=hackerslash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-AI application developer. LLM systems. Production infrastructure.
+Backend developer. LLM systems. Production infrastructure.
 
 3+ years shipping production LLM applications — agentic tool-calling loops, RAG, and real-time voice — currently at [Ayoo.care](https://ayoo.care), building agentic clinical tooling on backend infrastructure I own end to end.
 
@@ -12,6 +14,6 @@ AI application developer. LLM systems. Production infrastructure.
 
 🌐 [hackerslash.dev](https://www.hackerslash.dev) · 📍 Bangalore, IN
 
-<a href="mailto:afridijnv19@gmail.com"><img src="https://img.shields.io/badge/-afridijnv19%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:afridijnv19@gmail.com"></a>
 
 📷 street & wildlife photography · 🎬 filmmaking · 🕹️ CTF
